@@ -1,0 +1,23 @@
+. What is Emmet?
+- Emmet is a shorthand syntax for writing HTML, CSS and other markup languages.
+. Difference b/w a library and Framework?
+- A library is a set of tools that developers can use to build there own applications,
+while a framework is a more comprehensive and rigid set of code that provides a structured way of 
+building applications.
+. What is CDN? Why do we use it?
+- Content Delivery Network helps to improve website performance and reliability by caching and delivering
+ content to users from the nearest server to there location.
+. Why is React know as React?
+- Its know as react because it uses "reactive" programming model which means that when change occurs in a user interface.
+React reacts to that change and update the uodate the view accordingly.
+. What is cross-origin in the script tag?
+- The crossorigin attribute in the script tag is used to indicate whether or not the script being loaded should be subject to the Same Origin Policy.
+. What is the difference b/w React and ReactDOM?
+- React is the library for building user interfaces using JavaScript, and ReactDOM is the library that handles the rendering and updating of those interfaces in the browser's DOM.
+. What is the difference b/w react.development.js and react.production.js files via CDN?
+- Main difference b/w these 2 are development files contain additional error checking and debugging tools code and hence its more in size and its performance is less compared to 
+production files.
+. What are async and defer?
+- async and defer are attributes that can be added to the <script> tag to control how the browser loads and executes the script. 
+async allows the script to be downloaded and executed asynchronously while the page continues to load, 
+while defer allows the script to be downloaded asynchronously but executed after the page has finished parsing.
